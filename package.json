@@ -2,7 +2,7 @@
     "name": "flappy-bird-starter",
     "version": "0.0.0",
     "description": "No description",
-    "author": null,
+    "author": "j-Riv",
     "private": true,
     "main": "node_modules/expo/AppEntry.js",
     "dependencies": {
